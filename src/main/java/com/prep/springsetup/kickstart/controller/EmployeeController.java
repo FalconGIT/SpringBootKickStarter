@@ -1,6 +1,6 @@
 package com.prep.springsetup.kickstart.controller;
 
-import com.prep.springsetup.kickstart.data.EmployeeRepo;
+import com.prep.springsetup.kickstart.repository.EmployeeRepo;
 import com.prep.springsetup.kickstart.model.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

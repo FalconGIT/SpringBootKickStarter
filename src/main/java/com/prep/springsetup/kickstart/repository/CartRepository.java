@@ -1,4 +1,4 @@
-package com.prep.springsetup.kickstart.data;
+package com.prep.springsetup.kickstart.repository;
 
 import com.prep.springsetup.kickstart.model.Cart;
 import org.springframework.data.repository.CrudRepository;

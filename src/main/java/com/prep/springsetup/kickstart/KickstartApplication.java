@@ -1,6 +1,6 @@
 package com.prep.springsetup.kickstart;
 
-import com.prep.springsetup.kickstart.data.CartRepository;
+import com.prep.springsetup.kickstart.repository.CartRepository;
 import com.prep.springsetup.kickstart.model.Cart;
 import com.prep.springsetup.kickstart.model.Item;
 import org.springframework.boot.SpringApplication;

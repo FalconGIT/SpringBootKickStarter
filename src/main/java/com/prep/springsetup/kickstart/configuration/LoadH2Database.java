@@ -1,8 +1,7 @@
 package com.prep.springsetup.kickstart.configuration;
 
-import com.prep.springsetup.kickstart.KickstartApplication;
-import com.prep.springsetup.kickstart.data.CartRepository;
-import com.prep.springsetup.kickstart.data.EmployeeRepo;
+import com.prep.springsetup.kickstart.repository.CartRepository;
+import com.prep.springsetup.kickstart.repository.EmployeeRepo;
 import com.prep.springsetup.kickstart.model.Cart;
 import com.prep.springsetup.kickstart.model.Employee;
 import com.prep.springsetup.kickstart.model.Item;
